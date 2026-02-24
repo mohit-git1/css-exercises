@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+p{
+    background-color: #ffb6c1;
+    font-family: "Verdana" , "DejaVu Sans" ,sans-serif;
+}
+
+
+#div1{
+    font-size: 36px;
+    color: #0000ff;
+}
+#div2{
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: 800    ;
+}
+
+
+
+
+#p2{
+    font-size: 24px;
+}
