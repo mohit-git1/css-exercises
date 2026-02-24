@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+#button1{
+    background-color: black;
+    color: white;
+
+}
+
+
+#button2{
+    background-color: yellow;
+
+}
+
+/* here below grouping selector is used */
+button{
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+    font-size: 24px;
+
+}
