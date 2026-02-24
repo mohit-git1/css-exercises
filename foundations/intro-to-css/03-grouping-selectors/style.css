@@ -1,13 +1,13 @@
 /* Add CSS Styling */
 
-#button1{
+.button1{
     background-color: black;
     color: white;
 
 }
 
 
-#button2{
+.button2{
     background-color: yellow;
 
 }
